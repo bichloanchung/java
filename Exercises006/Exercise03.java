@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Exercise03{
     public static void main(String[] args){
+        //check the string is a palindrome or not
         Scanner sc = new Scanner(System.in);
         System.out.print("Input a string: ");
         String myStr = sc.nextLine();
